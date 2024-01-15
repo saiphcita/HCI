@@ -1,0 +1,28 @@
+### Programming Assignment: Hello World Interface
+
+#### Title
+Hello World Interface - Foundation for Final Project
+
+#### Objective
+Create a basic "Hello World" interface that will serve as a baseline for your final project. This task is designed to ensure that you have a working environment and are familiar with the basic principles of interface development.
+
+#### Instructions
+1. Setup: If you haven't already, set up your development environment. If you plan to do a web interface, you can use the guidelines provided in our React.js bootcamp session.
+
+2. Task: Develop a simple interface displaying the text "Hello, World!" This interface could be implemented using React.js. Feel free to use any code snippets or templates you learned from the React.js bootcamp session or other technologies you feel comfortable with. This is an opportunity to apply what you've learned in a practical context.
+
+3. Design: While the primary goal is functionality, basic styling is encouraged to make your interface visually appealing and this way you can start practicing design and coding.
+
+#### Submission Guidelines
+- Submit your code in a zip file, including all the necessary files to run the application.
+- Ensure that your submission includes a README file with instructions on how to set up and run your project.
+- Include a brief explanation of your design choices and any resources or tutorials you found helpful.
+
+#### Expected Outcome
+- Your interface should display "Hello, World!" when run.
+- The code should be clean, well-commented, and easy to understand.
+- The interface should be error-free and run smoothly.
+
+#### Assessment Criteria
+- Functionality: The interface works as expected.
+- Creativity: While not a primary focus, creative and aesthetic enhancements are welcome.
